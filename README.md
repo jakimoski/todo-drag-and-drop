@@ -17,6 +17,10 @@ This project provides an interactive interface for managing tasks. Users can add
 
 ![App Screenshot](./ToDo-app.jpg)
 
+## Demo
+
+Check out the live demo of the app [here](https://jakimoski.github.io/todo-drag-and-drop/).
+
 ## Technologies Used
 
 - **HTML:** Provides the structure of the application.
